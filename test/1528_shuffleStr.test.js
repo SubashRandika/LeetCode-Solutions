@@ -1,5 +1,5 @@
 import { assert } from 'chai';
-import shuffleStr from '../src/Shuffle_String/shuffleStr.js';
+import shuffleStr from '../src/1528_Shuffle_String/shuffleStr.js';
 
 describe('Tests for shuffleStr(s, indices)', () => {
 	it('Should test for shuffleStr("codeleet", [4,5,6,7,0,2,1,3])', () => {

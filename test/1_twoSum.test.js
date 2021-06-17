@@ -1,5 +1,5 @@
 import { assert } from 'chai';
-import twoSum from '../src/Two_Sum/twoSum.js';
+import twoSum from '../src/1_Two_Sum/twoSum.js';
 
 describe('Tests for twoSum(numbers, target)', () => {
 	it('Should test for twoSum([2, 7, 11, 15], 9)', () => {

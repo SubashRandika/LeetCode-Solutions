@@ -1,5 +1,5 @@
 import { assert } from 'chai';
-import mergeStringsAlt from '../src/Merge_Strings_Alternative/mergeStrAlt.js';
+import mergeStringsAlt from '../src/1768_Merge_Strings_Alternative/mergeStrAlt.js';
 
 describe('Tests for mergeStringsAlt(word1, word2)', () => {
 	it('Should test for mergeStringsAlt("abc", "pqr")', () => {

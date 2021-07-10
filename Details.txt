@@ -1,2 +1,5 @@
 https://walkccc.me/LeetCode/problems/0001/
 https://github.com/kamyu104/LeetCode-Solutions
+
+https://github.com/gutty333/Easy-Programming-Challenges/blob/master/38_EvenPairs.cpp
+https://stackoverflow.com/questions/51915320/javascript-how-to-split-string-that-includes-double-digit-integers/51918242

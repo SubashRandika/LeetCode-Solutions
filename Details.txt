@@ -3,3 +3,30 @@ https://github.com/kamyu104/LeetCode-Solutions
 
 https://github.com/gutty333/Easy-Programming-Challenges/blob/master/38_EvenPairs.cpp
 https://stackoverflow.com/questions/51915320/javascript-how-to-split-string-that-includes-double-digit-integers/51918242
+
+
+Wildcard Balanced String
+========================================
+
+balanced string is one in which every character in the string appears an equal number of times as every other character.
+
+For example, "ab", "aaabbb" and "ababaabb" are balanced, but "abb" and "abbbaa" are not.
+
+Additionally, strings may also include a wildcard character, "*". This wildcard character can represent any other character you wish. Furthermore, wildcards must represent another character; they cannot be left unused. A wild balanced string is a string in which all wildcards can be transformed into characters in such a way to produce a simple balanced string.
+
+This challenge involves writing a function balanced(s) to check whether s is balanced.
+
+Input is restricted to strings containing upper and lowercase alphabetical characters and the "*" wildcard character. 
+The input string will match the regular expression
+
+^[A-Za-z\*]*$
+
+Note that upper- and lower-cased characters such as "A" and "a" are treated as distinct for the purposes of balance.
+
+Sting input size is 0 <= n <= 500000.
+
+References:
+-------------
+
+https://stackoverflow.com/questions/67977081/working-with-equal-occurrences-of-characters-in-a-string-of-characters
+https://stackblitz.com/edit/jasmine-testing-bvjhhs?file=src%2Fis-balance.wais-kamal.ts
